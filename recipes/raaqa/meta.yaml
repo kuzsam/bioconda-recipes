@@ -32,6 +32,7 @@ test:
   commands:
     - visualise --help
     - mapq_softclip --help
+    - hese --help
 
 about:
   home: https://github.com/kuzsam/raaqa
